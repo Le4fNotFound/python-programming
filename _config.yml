@@ -4,7 +4,7 @@ course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na
 course_semester: "Fall 1998"
 
 baseurl: "/python-programming" # the subpath of your site, e.g. /blog/
-url: "http://le4f.cn/" # the base hostname & protocol for your site
+url: "http://le4fwiki.cn/" # the base hostname & protocol for your site
 
 schoolname: "Hogwarts"
 schoolurl: "https://hogwarts.edu"
