@@ -1,14 +1,14 @@
 instructors:
   - name: Le4f
-    profile_pic: /_images/pp/dumbledore.jpg
+    profile_pic: /_images/pp/wlop-18-se-clip.png
     webpage: https://le4fwiki.cn/
   # - name: Minerva McGonagall
   #   profile_pic: /_images/pp/mcgonagall.jpg
 
 teaching_assistants:
-  - name: Harry Potter
+  - name: Loreflux
     profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+    webpage: https://www.cnblogs.com/seikei/articles/19053180
 
   # - name: Hermione Granger
   #   profile_pic: /_images/pp/granger.jpg
